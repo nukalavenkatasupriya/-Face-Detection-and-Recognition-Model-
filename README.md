@@ -1,1 +1,1 @@
-# -Face-Detection-and-Recognition-Model-
+# Face-Detection-and-Recognition-Model
